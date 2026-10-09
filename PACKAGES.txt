@@ -1,148 +1,152 @@
-# 格式: 文件名<TAB>版本<TAB>安装大小MB<TAB>描述
-adwaita-icon-theme-48.0-1.x86_64.qyp	48.0-1	12	
-alsa-lib-1.2.14-1.x86_64.qyp	1.2.14-1	2	
-atk-2.38.0-1.x86_64.qyp	2.38.0-1	2	
-base-config-0.1.0-1.x86_64.qyp	0.1.0-1	0	
-bluez-5.82-1.x86_64.qyp	5.82-1	4	
-brotli-1.1.0-1.x86_64.qyp	1.1.0-1	0	
-busybox-1.36.1-1.x86_64.qyp	1.36.1-1	2	
-cairo-1.18.4-1.x86_64.qyp	1.18.4-1	7	
-compositeproto-0.4.2-1.x86_64.qyp	0.4.2-1	0	
-coreutils-9.6-1.x86_64.qyp	9.6-1	19	
-cronie-1.7.2-1.x86_64.qyp	1.7.2-1	0	
-curl-8.13.0-1.x86_64.qyp	8.13.0-1	2	
-damageproto-1.2.1-1.x86_64.qyp	1.2.1-1	0	
-dbus-1.16.2-1.x86_64.qyp	1.16.2-1	3	
-desktop-env-1.0.0-1.x86_64.qyp	1.0.0-1	0	
-desktop-file-utils-0.28-1.x86_64.qyp	0.28-1	0	
-desktop-shell-0.1.0-1.x86_64.qyp	0.1.0-1	0	
-dillo-3.2.0-1.x86_64.qyp	3.2.0-1	2	
-ell-0.76-1.x86_64.qyp	0.76-1	0	
-expat-2.7.0-1.x86_64.qyp	2.7.0-1	0	
-filesystem-0.2.0-1.x86_64.qyp	0.2.0-1	0	
-fixesproto-5.0-1.x86_64.qyp	5.0-1	0	
-flac-1.5.0-1.x86_64.qyp	1.5.0-1	1	
-fltk-1.3.9-1.x86_64.qyp	1.3.9-1	6	
-fontconfig-2.16.0-1.x86_64.qyp	2.16.0-1	1	
-freetype-2.13.3-1.x86_64.qyp	2.13.3-1	1	
-fribidi-1.0.16-1.x86_64.qyp	1.0.16-1	0	
-frp-0.61.2-1.x86_64.qyp	0.61.2-1	32	
-gdbm-1.25-1.x86_64.qyp	1.25-1	0	
-gdk-pixbuf-2.42.12-1.x86_64.qyp	2.42.12-1	3	
-giflib-5.2.2-1.x86_64.qyp	5.2.2-1	0	
-git-2.49.0-1.x86_64.qyp	2.49.0-1	664	
-glib-2.84.0-1.x86_64.qyp	2.84.0-1	43	
-glibc-2.42-1.x86_64.qyp	2.42-1	48	
-go-1.24.4-1.x86_64.qyp	1.24.4-1	241	
-gtk3-3.24.43-1.x86_64.qyp	3.24.43-1	76	
-gui-base-1.0.0-1.x86_64.qyp	1.0.0-1	0	
-harfbuzz-10.3.0-1.x86_64.qyp	10.3.0-1	62	
-hicolor-icon-theme-0.18-1.x86_64.qyp	0.18-1	0	
-hwdata-0.392-1.x86_64.qyp	0.392-1	1	
-icu-77.1-1.x86_64.qyp	77.1-1	43	
-inputproto-2.3.2-1.x86_64.qyp	2.3.2-1	0	
-iso-codes-4.17.0-1.x86_64.qyp	4.17.0-1	20	
-iwd-3.9-1.x86_64.qyp	3.9-1	3	
-jpeg-turbo-3.1.0-1.x86_64.qyp	3.1.0-1	2	
-json-c-0.18-1.x86_64.qyp	0.18-1	0	
-kernel-6.16.1-1.x86_64.qyp	6.16.1-1	104	
-kmod-34.1-1.x86_64.qyp	34.1-1	0	
-libX11-1.8.12-1.x86_64.qyp	1.8.12-1	13	
-libXau-1.0.12-1.x86_64.qyp	1.0.12-1	0	
-libXcomposite-0.4.6-1.x86_64.qyp	0.4.6-1	0	
-libXcursor-1.2.3-1.x86_64.qyp	1.2.3-1	0	
-libXdamage-1.1.6-1.x86_64.qyp	1.1.6-1	0	
-libXdmcp-1.1.5-1.x86_64.qyp	1.1.5-1	0	
-libXext-1.3.6-1.x86_64.qyp	1.3.6-1	0	
-libXfixes-6.0.1-1.x86_64.qyp	6.0.1-1	0	
-libXfont2-2.0.7-1.x86_64.qyp	2.0.7-1	0	
-libXft-2.3.8-1.x86_64.qyp	2.3.8-1	0	
-libXi-1.8.2-1.x86_64.qyp	1.8.2-1	0	
-libXinerama-1.1.5-1.x86_64.qyp	1.1.5-1	0	
-libXrandr-1.5.4-1.x86_64.qyp	1.5.4-1	0	
-libXrender-0.9.12-1.x86_64.qyp	0.9.12-1	0	
-libXxf86vm-1.1.6-1.x86_64.qyp	1.1.6-1	0	
-libdrm-2.4.124-1.x86_64.qyp	2.4.124-1	1	
-libelf-0.192-1.x86_64.qyp	0.192-1	7	
-libepoxy-1.5.10-1.x86_64.qyp	1.5.10-1	6	
-libev-4.33-1.x86_64.qyp	4.33-1	0	
-libevdev-1.13.1-1.x86_64.qyp	1.13.1-1	0	
-libffi-3.4.7-1.x86_64.qyp	3.4.7-1	0	
-libfontenc-1.1.8-1.x86_64.qyp	1.1.8-1	0	
-libical-3.0.20-1.x86_64.qyp	3.0.20-1	2	
-libinput-1.28.0-1.x86_64.qyp	1.28.0-1	4	
-libndp-1.9-1.x86_64.qyp	1.9-1	0	
-libnl-3.11-1.x86_64.qyp	3.11-1	2	
-libogg-1.3.5-1.x86_64.qyp	1.3.5-1	0	
-libpciaccess-0.18.1-1.x86_64.qyp	0.18.1-1	0	
-libpipeline-1.5.8-1.x86_64.qyp	1.5.8-1	0	
-libpng-1.6.47-1.x86_64.qyp	1.6.47-1	0	
-libpsl-0.21.5-1.x86_64.qyp	0.21.5-1	0	
-libqydemo-0.2.0-1.x86_64.qyp	0.2.0-1	0	
-libsamplerate-0.2.2-1.x86_64.qyp	0.2.2-1	1	
-libsndfile-1.2.2-1.x86_64.qyp	1.2.2-1	1	
-libsoup-3.6.5-1.x86_64.qyp	3.6.5-1	3	
-libtiff-4.7.0-1.x86_64.qyp	4.7.0-1	6	
-libudev-3.2.14-1.x86_64.qyp	3.2.14-1	9	
-libusb-1.0.28-1.x86_64.qyp	1.0.28-1	0	
-libvorbis-1.3.7-1.x86_64.qyp	1.3.7-1	1	
-libwebp-1.5.0-1.x86_64.qyp	1.5.0-1	1	
-libxcb-1.17.0-1.x86_64.qyp	1.17.0-1	6	
-libxcvt-0.1.2-1.x86_64.qyp	0.1.2-1	0	
-libxkbcommon-1.8.1-1.x86_64.qyp	1.8.1-1	1	
-libxkbfile-1.1.3-1.x86_64.qyp	1.1.3-1	0	
-libxml2-2.14.3-1.x86_64.qyp	2.14.3-1	4	
-libxshmfence-1.3.3-1.x86_64.qyp	1.3.3-1	0	
-libxslt-1.1.43-1.x86_64.qyp	1.1.43-1	1	
-linux-firmware-20250613-1.x86_64.qyp	20250613-1	1237	
-linux-headers-6.16.1-1.x86_64.qyp	6.16.1-1	6	
-logrotate-3.22.0-1.x86_64.qyp	3.22.0-1	0	
-lua-5.4.7-1.x86_64.qyp	5.4.7-1	1	
-man-db-2.13.1-1.x86_64.qyp	2.13.1-1	2	
-mesa-24.0.9-1.x86_64.qyp	24.0.9-1	169	
-mo-1.10.0-24.x86_64.qyp	1.10.0-24	0	
-mtdev-1.1.6-1.x86_64.qyp	1.1.6-1	0	
-ncurses-6.5-1.x86_64.qyp	6.5-1	6	
-networkmanager-1.52.0-1.x86_64.qyp	1.52.0-1	51	
-nghttp2-1.65.0-1.x86_64.qyp	1.65.0-1	0	
-openssh-10.0p2-1.x86_64.qyp	10.0p2-1	7	
-openssl-3.5.0-1.x86_64.qyp	3.5.0-1	24	
-opus-1.5.2-1.x86_64.qyp	1.5.2-1	0	
-pam-1.7.0-1.x86_64.qyp	1.7.0-1	1	
-pango-1.56.3-1.x86_64.qyp	1.56.3-1	4	
-pciutils-3.14.0-1.x86_64.qyp	3.14.0-1	0	
-pcre2-10.45-1.x86_64.qyp	10.45-1	4	
-perl-5.40.1-1.x86_64.qyp	5.40.1-1	75	
-pipewire-1.4.1-1.x86_64.qyp	1.4.1-1	41	
-pixman-0.46.2-1.x86_64.qyp	0.46.2-1	5	
-polkit-126-1.x86_64.qyp	126-1	0	
-popt-1.19-1.x86_64.qyp	1.19-1	0	
-python-3.13.3-1.x86_64.qyp	3.13.3-1	294	
-qydemo-0.2.0-1.x86_64.qyp	0.2.0-1	0	
-qydesktop-0.1.0-7.x86_64.qyp	0.1.0-7	0	
-qyinit-0.1.0-1.x86_64.qyp	0.1.0-1	0	
-randrproto-1.5.0-1.x86_64.qyp	1.5.0-1	0	
-rathole-0.5.0-1.x86_64.qyp	0.5.0-1	4	
-readline-8.2-1.x86_64.qyp	8.2-1	1	
-renderproto-0.11.1-1.x86_64.qyp	0.11.1-1	0	
-rsync-3.4.1-1.x86_64.qyp	3.4.1-1	0	
-seatd-0.9.1-1.x86_64.qyp	0.9.1-1	0	
-shadow-4.17.4-1.x86_64.qyp	4.17.4-1	4	
-shared-mime-info-2.4-2.x86_64.qyp	2.4-2	7	
-sqlite-3.49.2-1.x86_64.qyp	3.49.2-1	3	
-usbutils-018-1.x86_64.qyp	018-1	0	
-util-linux-2.41-1.x86_64.qyp	2.41-1	22	
-wayland-1.23.1-1.x86_64.qyp	1.23.1-1	1	
-wayland-protocols-1.44-1.x86_64.qyp	1.44-1	0	
-weston-14.0.2-1.x86_64.qyp	14.0.2-1	10	
-wget-1.25.0-1.x86_64.qyp	1.25.0-1	0	
-xcb-proto-1.17.0-1.x86_64.qyp	1.17.0-1	1	
-xextproto-7.3.0-1.x86_64.qyp	7.3.0-1	0	
-xineramaproto-1.2.1-1.x86_64.qyp	1.2.1-1	0	
-xorg-macros-1.20.2-1.x86_64.qyp	1.20.2-1	0	
-xorg-server-21.1.16-1.x86_64.qyp	21.1.16-1	41	
-xorgproto-2024.1-1.x86_64.qyp	2024.1-1	3	
-xtrans-1.6.0-1.x86_64.qyp	1.6.0-1	0	
-xz-5.8.1-1.x86_64.qyp	5.8.1-1	2	
-zlib-1.3.1-1.x86_64.qyp	1.3.1-1	0	
-zstd-1.5.7-1.x86_64.qyp	1.5.7-1	3	
+# 启元 Linux 二进制包全清单 / Qiyuan Linux package index (147)
+# 下载: curl -LO https://github.com/Quor-a/qiyuan-linux-pkgs/releases/latest/download/<file>
+# qypkg 安装: qypkg --repo <本地repo目录> --allow-unsigned install <包名>
+# 格式: <file> | <version> | 安装大小MB | 描述 | 依赖
+
+adwaita-icon-theme-48.0-1.x86_64.qyp | 48.0-1 | 12 | GNOME 默认图标集 | hicolor-icon-theme
+alsa-lib-1.2.14-1.x86_64.qyp | 1.2.14-1 | 2 | ALSA 声音库 | 
+atk-2.38.0-1.x86_64.qyp | 2.38.0-1 | 2 | 无障碍工具包（GTK3 依赖） | glib
+base-config-0.1.0-1.x86_64.qyp | 0.1.0-1 | 0 | 基础系统配置（主机名/hosts/profile 等） | busybox,util-linux
+bluez-5.82-1.x86_64.qyp | 5.82-1 | 4 | 蓝牙协议栈 | dbus,glib,readline,libudev,glibc
+brotli-1.1.0-1.x86_64.qyp | 1.1.0-1 | 0 | Brotli 压缩算法 | glibc
+busybox-1.36.1-1.x86_64.qyp | 1.36.1-1 | 2 | 静态多合一 Unix 工具箱 | 
+cairo-1.18.4-1.x86_64.qyp | 1.18.4-1 | 7 | 2D 矢量图形库 | pixman,freetype,fontconfig,libpng,zlib,glib
+compositeproto-0.4.2-1.x86_64.qyp | 0.4.2-1 | 0 | X 合成协议头文件 | xorgproto
+coreutils-9.6-1.x86_64.qyp | 9.6-1 | 19 | 基础文件/文本/shell 工具集（ls cp mv 等） | glibc,openssl
+cronie-1.7.2-1.x86_64.qyp | 1.7.2-1 | 0 | cron 定时任务守护进程 | pam,glibc
+curl-8.13.0-1.x86_64.qyp | 8.13.0-1 | 2 | 命令行数据传输工具与 libcurl | openssl,zlib,zstd,glibc
+damageproto-1.2.1-1.x86_64.qyp | 1.2.1-1 | 0 | X 损坏协议头文件 | xorgproto
+dbus-1.16.2-1.x86_64.qyp | 1.16.2-1 | 3 | 进程间消息总线（桌面与系统服务通信基础） | expat,glibc
+desktop-env-1.0.0-1.x86_64.qyp | 1.0.0-1 | 0 | 桌面环境元包（拉齐桌面全套组件） | gui-base,alsa-lib,pipewire,dbus,polkit,desktop-file-utils,shared-mime-info,xorg-server
+desktop-file-utils-0.28-1.x86_64.qyp | 0.28-1 | 0 | desktop 文件工具（update-desktop-database） | glib
+desktop-shell-0.1.0-1.x86_64.qyp | 0.1.0-1 | 0 | 启元自研桌面壳（qydesktop 面板/壁纸/启动器） | gtk3,polkit,dbus,networkmanager,alsa-lib
+dillo-3.2.0-1.x86_64.qyp | 3.2.0-1 | 2 | 极轻量浏览器（自研引擎，约 1MB） | zlib,libpng,openssl,glib,glibc,jpeg-turbo
+ell-0.76-1.x86_64.qyp | 0.76-1 | 0 | 嵌入式 Linux 基础库（iwd 依赖） | glibc
+expat-2.7.0-1.x86_64.qyp | 2.7.0-1 | 0 | 流式 XML 解析库 | glibc
+filesystem-0.2.0-1.x86_64.qyp | 0.2.0-1 | 0 | FHS 目录结构、/usr 合并布局与基础 /etc | 
+fixesproto-5.0-1.x86_64.qyp | 5.0-1 | 0 | X 修正协议头文件 | xorgproto
+flac-1.5.0-1.x86_64.qyp | 1.5.0-1 | 1 | 无损音频编解码器 | libogg
+fltk-1.3.9-1.x86_64.qyp | 1.3.9-1 | 6 | 轻量 C++ GUI 工具包 | libX11,libXext,libXft,libXrender,libXcursor,libXfixes,libXinerama,libXrandr,fontconfig,freetype,libpng,zlib,jpeg-turbo,glibc
+fontconfig-2.16.0-1.x86_64.qyp | 2.16.0-1 | 1 | 字体配置与匹配库 | freetype,expat,libxml2
+freetype-2.13.3-1.x86_64.qyp | 2.13.3-1 | 1 | 字体渲染引擎 | zlib,libpng,brotli,glibc
+fribidi-1.0.16-1.x86_64.qyp | 1.0.16-1 | 0 | 双向文本算法实现 | 
+frp-0.61.2-1.x86_64.qyp | 0.61.2-1 | 32 | 内网穿透反向代理（frpc 客户端 + frps 服务端） | 
+gdbm-1.25-1.x86_64.qyp | 1.25-1 | 0 | GNU 数据库例程库 | readline,glibc
+gdk-pixbuf-2.42.12-1.x86_64.qyp | 2.42.12-1 | 3 | 图像加载库（GTK3 依赖） | glib,libpng,jpeg-turbo
+giflib-5.2.2-1.x86_64.qyp | 5.2.2-1 | 0 | GIF 图像格式库 | glibc
+git-2.49.0-1.x86_64.qyp | 2.49.0-1 | 664 | 分布式版本控制系统 | curl,openssl,zlib,expat,pcre2,glibc
+glib-2.84.0-1.x86_64.qyp | 2.84.0-1 | 43 | 通用工具与对象库（GTK 与大量应用的基础） | libffi,pcre2,zlib,libxml2,util-linux,glibc,libelf
+glibc-2.42-1.x86_64.qyp | 2.42-1 | 48 | GNU C 库 | linux-headers
+go-1.24.4-1.x86_64.qyp | 1.24.4-1 | 241 | Go 编译工具链（仅构建机使用） | glibc
+gtk3-3.24.43-1.x86_64.qyp | 3.24.43-1 | 76 | GTK 3 图形界面工具包 | glib,pango,atk,gdk-pixbuf,cairo,libX11,libXext,libXinerama,libXi,libXrandr,libXcursor,libXdamage,libXcomposite,wayland,libepoxy,harfbuzz,fribidi,iso-codes
+gui-base-1.0.0-1.x86_64.qyp | 1.0.0-1 | 0 | GUI 基础元包（Wayland/X 协议与基础库） | mesa,libxkbcommon,libinput,gtk3,fontconfig,freetype,harfbuzz,cairo,pango,gdk-pixbuf,hicolor-icon-theme,adwaita-icon-theme,dbus
+harfbuzz-10.3.0-1.x86_64.qyp | 10.3.0-1 | 62 | 文字塑形引擎（复杂文本排版） | freetype,glib,glibc
+hicolor-icon-theme-0.18-1.x86_64.qyp | 0.18-1 | 0 | 图标主题目录规范骨架 | 
+hwdata-0.392-1.x86_64.qyp | 0.392-1 | 1 | 硬件标识数据库（pnp.ids 等，纯数据） | 
+icu-77.1-1.x86_64.qyp | 77.1-1 | 43 | Unicode 与国际化组件库 | glibc
+inputproto-2.3.2-1.x86_64.qyp | 2.3.2-1 | 0 | X11 输入扩展协议头文件 | xorgproto
+iso-codes-4.17.0-1.x86_64.qyp | 4.17.0-1 | 20 | ISO 标准代码数据集（语言/国家/货币名） | 
+iwd-3.9-1.x86_64.qyp | 3.9-1 | 3 | 内核原生无线守护（iNet Wireless Daemon） | glibc,readline
+jpeg-turbo-3.1.0-1.x86_64.qyp | 3.1.0-1 | 2 | JPEG 编解码库（SIMD 加速） | 
+json-c-0.18-1.x86_64.qyp | 0.18-1 | 0 | JSON 解析库 | glibc
+kernel-6.16.1-1.x86_64.qyp | 6.16.1-1 | 104 | Linux 内核（启元基线配置） | 
+kmod-34.1-1.x86_64.qyp | 34.1-1 | 0 | 内核模块加载与管理 | openssl,zlib,xz,zstd,glibc
+libX11-1.8.12-1.x86_64.qyp | 1.8.12-1 | 13 | X11 客户端核心库 | xorgproto,libxcb,libXau,libXdmcp,xtrans,glibc
+libXau-1.0.12-1.x86_64.qyp | 1.0.12-1 | 0 | X 授权库 | xorgproto,glibc
+libXcomposite-0.4.6-1.x86_64.qyp | 0.4.6-1 | 0 | X 合成扩展库 | libX11,libXfixes,compositeproto
+libXcursor-1.2.3-1.x86_64.qyp | 1.2.3-1 | 0 | X 光标管理库 | libX11,libXrender,libXfixes
+libXdamage-1.1.6-1.x86_64.qyp | 1.1.6-1 | 0 | X 损坏区域扩展库 | libX11,libXfixes,damageproto
+libXdmcp-1.1.5-1.x86_64.qyp | 1.1.5-1 | 0 | X 显示管理器控制协议库 | xorgproto,glibc
+libXext-1.3.6-1.x86_64.qyp | 1.3.6-1 | 0 | X11 扩展库 | libX11,xextproto,glibc
+libXfixes-6.0.1-1.x86_64.qyp | 6.0.1-1 | 0 | X 修正扩展库 | libX11,fixesproto
+libXfont2-2.0.7-1.x86_64.qyp | 2.0.7-1 | 0 | X 服务器字体库 | freetype,fontconfig,libfontenc,xorgproto,xtrans,zlib
+libXft-2.3.8-1.x86_64.qyp | 2.3.8-1 | 0 | X 字体渲染库（FreeType 与 X 的桥接） | libX11,libXrender,freetype,fontconfig,glibc
+libXi-1.8.2-1.x86_64.qyp | 1.8.2-1 | 0 | X 输入扩展库 | libX11,libXext,inputproto
+libXinerama-1.1.5-1.x86_64.qyp | 1.1.5-1 | 0 | X 多屏扩展库 | libX11,libXext,xineramaproto
+libXrandr-1.5.4-1.x86_64.qyp | 1.5.4-1 | 0 | X 屏幕分辨率与旋转扩展库 | libX11,libXext,libXrender,randrproto
+libXrender-0.9.12-1.x86_64.qyp | 0.9.12-1 | 0 | X 渲染扩展库 | libX11,renderproto
+libXxf86vm-1.1.6-1.x86_64.qyp | 1.1.6-1 | 0 | XFree86-VidMode 扩展库 | libX11,libXext,xorgproto,glibc
+libdrm-2.4.124-1.x86_64.qyp | 2.4.124-1 | 1 | DRM 内核接口封装库 | 
+libelf-0.192-1.x86_64.qyp | 0.192-1 | 7 | ELF 文件读写库（elfutils 的一部分） | zlib,zstd,xz
+libepoxy-1.5.10-1.x86_64.qyp | 1.5.10-1 | 6 | OpenGL 函数指针管理库 | mesa
+libev-4.33-1.x86_64.qyp | 4.33-1 | 0 | 事件循环库 | glibc
+libevdev-1.13.1-1.x86_64.qyp | 1.13.1-1 | 0 | 输入事件设备封装库 | 
+libffi-3.4.7-1.x86_64.qyp | 3.4.7-1 | 0 | 外部函数接口库（解释器与 JIT 依赖） | glibc
+libfontenc-1.1.8-1.x86_64.qyp | 1.1.8-1 | 0 | X 字体编码库 | zlib
+libical-3.0.20-1.x86_64.qyp | 3.0.20-1 | 2 | iCalendar 协议解析库 | glib,glibc,libxml2
+libinput-1.28.0-1.x86_64.qyp | 1.28.0-1 | 4 | 输入设备处理库 | libevdev,mtdev,libudev
+libndp-1.9-1.x86_64.qyp | 1.9-1 | 0 | IPv6 邻居发现协议库 | glibc
+libnl-3.11-1.x86_64.qyp | 3.11-1 | 2 | netlink 协议库（内核网络栈通信） | glibc
+libogg-1.3.5-1.x86_64.qyp | 1.3.5-1 | 0 | Ogg 容器格式库 | 
+libpciaccess-0.18.1-1.x86_64.qyp | 0.18.1-1 | 0 | PCI 设备访问库 | zlib
+libpipeline-1.5.8-1.x86_64.qyp | 1.5.8-1 | 0 | 子进程管道管理库（man-db 依赖） | glibc
+libpng-1.6.47-1.x86_64.qyp | 1.6.47-1 | 0 | PNG 图像格式库 | zlib,glibc
+libpsl-0.21.5-1.x86_64.qyp | 0.21.5-1 | 0 | 公共后缀列表（PSL）解析库 | icu,glibc
+libqydemo-0.2.0-1.x86_64.qyp | 0.2.0-1 | 0 | 启元构建系统演示共享库 | 
+libsamplerate-0.2.2-1.x86_64.qyp | 0.2.2-1 | 1 | 采样率转换库 | 
+libsndfile-1.2.2-1.x86_64.qyp | 1.2.2-1 | 1 | 音频文件读写库 | libsamplerate,flac,libogg,libvorbis,opus
+libsoup-3.6.5-1.x86_64.qyp | 3.6.5-1 | 3 | HTTP 客户端库（GNOME 生态） | glib,libxml2,sqlite,openssl,nghttp2,brotli,libpsl,glibc,zlib
+libtiff-4.7.0-1.x86_64.qyp | 4.7.0-1 | 6 | TIFF 图像格式库 | jpeg-turbo,zlib,xz,glibc,zstd
+libudev-3.2.14-1.x86_64.qyp | 3.2.14-1 | 9 | 设备枚举与监控库（eudev 实现） | glibc
+libusb-1.0.28-1.x86_64.qyp | 1.0.28-1 | 0 | 用户态 USB 设备访问 | glibc,libudev
+libvorbis-1.3.7-1.x86_64.qyp | 1.3.7-1 | 1 | Vorbis 音频编解码库 | libogg
+libwebp-1.5.0-1.x86_64.qyp | 1.5.0-1 | 1 | WebP 图像格式库 | libpng,jpeg-turbo,libtiff,giflib,glibc
+libxcb-1.17.0-1.x86_64.qyp | 1.17.0-1 | 6 | X C 语言绑定库 | xorgproto,libXau,libXdmcp,xcb-proto,glibc
+libxcvt-0.1.2-1.x86_64.qyp | 0.1.2-1 | 0 | VESA CVT 标准模型计算库 | 
+libxkbcommon-1.8.1-1.x86_64.qyp | 1.8.1-1 | 1 | 键盘映射处理库（Wayland 与 X11 共用） | xorgproto,libxcb,libX11,wayland,wayland-protocols,libxml2
+libxkbfile-1.1.3-1.x86_64.qyp | 1.1.3-1 | 0 | 键盘描述文件解析库 | libX11
+libxml2-2.14.3-1.x86_64.qyp | 2.14.3-1 | 4 | XML 解析与处理库 | zlib,xz,glibc
+libxshmfence-1.3.3-1.x86_64.qyp | 1.3.3-1 | 0 | 共享内存同步原语（X 的 GLX 用） | xorgproto
+libxslt-1.1.43-1.x86_64.qyp | 1.1.43-1 | 1 | XSLT 转换库 | libxml2,glibc
+linux-firmware-20250613-1.x86_64.qyp | 20250613-1 | 1237 | 网卡/无线/显卡/存储控制器固件 | 
+linux-headers-6.16.1-1.x86_64.qyp | 6.16.1-1 | 6 | Linux 内核用户空间头文件 | 
+logrotate-3.22.0-1.x86_64.qyp | 3.22.0-1 | 0 | 日志文件轮转、压缩与删除 | popt,glibc
+lua-5.4.7-1.x86_64.qyp | 5.4.7-1 | 1 | Lua 脚本语言（vim 等嵌入） | readline,glibc
+man-db-2.13.1-1.x86_64.qyp | 2.13.1-1 | 2 | manual 页数据库与 man 命令 | zlib,gdbm,libpipeline,glibc
+mesa-24.0.9-1.x86_64.qyp | 24.0.9-1 | 169 | 开源 OpenGL / Vulkan 实现 | libdrm,libxcb,libX11,libXext,libXdamage,libXfixes,libxkbcommon,wayland,zlib,zstd,expat,libelf,libxshmfence,libXxf86vm,libXrender,libXrandr
+mo-1.10.0-25.x86_64.qyp | 1.10.0-25 | 0 | 墨语言——启元官方系统开发语言（自举编译器 + 标准库 + 工具链） | 
+mtdev-1.1.6-1.x86_64.qyp | 1.1.6-1 | 0 | 多点触控协议转换库 | 
+ncurses-6.5-1.x86_64.qyp | 6.5-1 | 6 | 终端处理库（供 bash、less、vi 等使用） | glibc
+networkmanager-1.52.0-1.x86_64.qyp | 1.52.0-1 | 51 | 网络连接管理服务 | libndp,libnl,dbus,glib,libudev,curl,readline,openssl
+nghttp2-1.65.0-1.x86_64.qyp | 1.65.0-1 | 0 | HTTP/2 协议库 | openssl,zlib,libev,glibc
+openssh-10.0p2-1.x86_64.qyp | 10.0p2-1 | 7 | SSH 客户端与服务端 | openssl,zlib,glibc
+openssl-3.5.0-1.x86_64.qyp | 3.5.0-1 | 24 | TLS/SSL 与通用密码学库 | zlib,glibc
+opus-1.5.2-1.x86_64.qyp | 1.5.2-1 | 0 | Opus 音频编解码库 | 
+pam-1.7.0-1.x86_64.qyp | 1.7.0-1 | 1 | 可插拔认证模块（PAM） | gdbm,glibc
+pango-1.56.3-1.x86_64.qyp | 1.56.3-1 | 4 | 文本布局与渲染库 | glib,cairo,harfbuzz,fribidi,freetype,fontconfig
+pciutils-3.14.0-1.x86_64.qyp | 3.14.0-1 | 0 | PCI 总线诊断工具（lspci/setpci）与 PCI ID 库 | glibc,zlib,libudev
+pcre2-10.45-1.x86_64.qyp | 10.45-1 | 4 | Perl 兼容正则表达式库 | glibc
+perl-5.40.1-1.x86_64.qyp | 5.40.1-1 | 75 | Perl 脚本语言（很多构建系统依赖它） | gdbm,zlib,glibc
+pipewire-1.4.1-1.x86_64.qyp | 1.4.1-1 | 41 | 音视频路由守护（PipeWire） | alsa-lib,glib,libudev,libsndfile,dbus,ncurses
+pixman-0.46.2-1.x86_64.qyp | 0.46.2-1 | 5 | 像素操作库（cairo 与 X 服务器依赖） | 
+polkit-126-1.x86_64.qyp | 126-1 | 0 | 特权操作授权框架 | glib,dbus,pam
+popt-1.19-1.x86_64.qyp | 1.19-1 | 0 | getopt(3) 的增强版参数解析库 | glibc
+python-3.13.3-1.x86_64.qyp | 3.13.3-1 | 294 | Python 语言与运行时 | openssl,zlib,libffi,expat,sqlite,readline,ncurses,xz,gdbm,glibc
+qydemo-0.2.0-1.x86_64.qyp | 0.2.0-1 | 0 | 端到端链路验证演示程序 | libqydemo
+qydesktop-0.1.0-7.x86_64.qyp | 0.1.0-7 | 0 | 启元桌面面板与启动器 | gtk3,glib,cairo
+qyinit-0.1.0-1.x86_64.qyp | 0.1.0-1 | 0 | 启元 Linux 初始化与服务管理（PID 1） | 
+randrproto-1.5.0-1.x86_64.qyp | 1.5.0-1 | 0 | X RandR 协议头文件 | xorgproto
+rathole-0.5.0-1.x86_64.qyp | 0.5.0-1 | 4 | Rust 高性能内网穿透（轻量，路由器/树莓派友好） | glibc,openssl
+readline-8.2-1.x86_64.qyp | 8.2-1 | 1 | 命令行行编辑与历史库 | ncurses,glibc
+renderproto-0.11.1-1.x86_64.qyp | 0.11.1-1 | 0 | X 渲染协议头文件 | xorgproto
+rsync-3.4.1-1.x86_64.qyp | 3.4.1-1 | 0 | 远程与本地文件的快速增量同步 | zlib,openssl,glibc
+seatd-0.9.1-1.x86_64.qyp | 0.9.1-1 | 0 | 最小化 seat 与会话管理守护进程 | 
+shadow-4.17.4-1.x86_64.qyp | 4.17.4-1 | 4 | 账户与口令管理（useradd passwd） | glibc
+shared-mime-info-2.4-2.x86_64.qyp | 2.4-2 | 7 | 共享 MIME 类型数据库 | glib,libxml2
+sqlite-3.49.2-1.x86_64.qyp | 3.49.2-1 | 3 | 嵌入式关系型数据库引擎 | zlib,readline,glibc
+usbutils-018-1.x86_64.qyp | 018-1 | 0 | USB 总线诊断工具（lsusb）与 USB ID 库 | glibc,libudev,zlib,libusb
+util-linux-2.41-1.x86_64.qyp | 2.41-1 | 22 | 系统杂项工具（mount lsblk fdisk 等） | zlib,ncurses,glibc,libudev
+wayland-1.23.1-1.x86_64.qyp | 1.23.1-1 | 1 | Wayland 显示协议与库 | libffi,expat,libxml2
+wayland-protocols-1.44-1.x86_64.qyp | 1.44-1 | 0 | Wayland 标准协议扩展集合 | 
+weston-14.0.2-1.x86_64.qyp | 14.0.2-1 | 10 | Wayland 参考合成器 | wayland,libxkbcommon,cairo,jpeg-turbo,pango,libdrm,mesa,seatd,libinput,dbus,pixman,libudev
+wget-1.25.0-1.x86_64.qyp | 1.25.0-1 | 0 | 命令行网络下载工具 | openssl,zlib,glibc,pcre2
+xcb-proto-1.17.0-1.x86_64.qyp | 1.17.0-1 | 1 | XCB 协议描述（生成绑定代码用） | 
+xextproto-7.3.0-1.x86_64.qyp | 7.3.0-1 | 0 | X11 扩展协议头文件 | xorgproto
+xineramaproto-1.2.1-1.x86_64.qyp | 1.2.1-1 | 0 | X 多屏协议头文件 | xorgproto
+xorg-macros-1.20.2-1.x86_64.qyp | 1.20.2-1 | 0 | X.Org 公共 m4/pkgconfig 宏 | 
+xorg-server-21.1.16-1.x86_64.qyp | 21.1.16-1 | 41 | X.org 显示服务器 | libxcvt,libpciaccess,pixman,mesa,libXfont2,libxkbfile,libxshmfence,libdrm,libudev,libinput,dbus
+xorgproto-2024.1-1.x86_64.qyp | 2024.1-1 | 3 | X11 协议头文件（所有 X 客户端的编译前提） | 
+xtrans-1.6.0-1.x86_64.qyp | 1.6.0-1 | 0 | X 传输层库 | xorg-macros
+xz-5.8.1-1.x86_64.qyp | 5.8.1-1 | 2 | XZ / LZMA 压缩工具与库 | glibc
+zlib-1.3.1-1.x86_64.qyp | 1.3.1-1 | 0 | 通用无损数据压缩库 | glibc
+zstd-1.5.7-1.x86_64.qyp | 1.5.7-1 | 3 | Zstandard 实时压缩算法与库 | zlib,glibc,xz
